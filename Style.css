@@ -17,13 +17,13 @@ body {
   }
 
 
-footer {
+footer  {
 text-align: right;
 background-color: lightgrey;
 position: absolute  ;
 bottom: 0px;
 width:100%;
-height:; 
+height:10%; 
 }
 
 address {
